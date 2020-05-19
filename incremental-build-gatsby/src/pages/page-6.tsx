@@ -37,6 +37,9 @@ const SixPage = (props: PageProps) => {
     {
       file: "premieroctet.png",
     },
+    {
+      file: "screenguru.png",
+    },
   ])
   return (
     <Layout>
