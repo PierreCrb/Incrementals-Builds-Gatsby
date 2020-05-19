@@ -1,3 +1,3 @@
 ## Builds Incrementals Gatsby
 
-👉 [Tuto pour le blog présent içi](https://www.premieroctet.com/blog)
+👉 [Tuto pour le blog présent ici](https://www.premieroctet.com/blog)
